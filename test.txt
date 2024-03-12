@@ -1,1 +1,2 @@
 이곳에 세번째 실험중이다. 
+git remote add origin https://github.com/joynana/my_repo.git
